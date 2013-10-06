@@ -1,4 +1,4 @@
-# JAVA GUI Caculator
+#JAVA GUI Caculator
 
 GUI Caculator written in JAVA
 
